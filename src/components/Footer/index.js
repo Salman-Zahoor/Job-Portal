@@ -159,7 +159,7 @@ const AppFooter = () => {
             }}
           >
             <Typography variant="span" className={classes.footerTypo}>
-              Copyright © 2023 BHS
+              Copyright © 2023 Job Portal
             </Typography>
             <Typography variant="body2" className={classes.footerPolicy}  >
               <span onClick={()=>navigate("/privacyPolicy")}>Privacy policy</span>
