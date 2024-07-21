@@ -1,6 +1,6 @@
 import axios from "axios";
 // let baseUrl = "http://192.168.1.112:5000/api/";
-let baseUrl = "https://server-portal-phi.vercel.app/api/";
+let baseUrl = "https://new-job-server.vercel.app/api/";
 // let baseUrl = "https://server-portal-pied.vercel.app/api/";
 
  
