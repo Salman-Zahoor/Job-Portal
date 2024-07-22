@@ -20,7 +20,7 @@ const PlanCard = ({ plan, user, handleSelectPlan }) => {
             </Typography>
             <Box component="div" sx={{ display: "flex", justifyContent: "center", alignItems: "center", marginTop: "10px", background:primaryColor, padding: "30px" }}>
                 <Typography variant="h2" sx={{ fontSize: "60px !important", marginTop: "10px", color: headerColor }} className={classes.heroSubHeading}>
-                    <span style={{ fontSize: "16px" }}>$.</span>{price}<span style={{ fontSize: "20px" }}>/ Per Year</span>
+                    <span style={{ fontSize: "16px" }}>£</span>{price}<span style={{ fontSize: "20px" }}>/ Per Year</span>
                 </Typography>
             </Box>
             <Typography variant="h2" sx={{ fontSize: "18px !important", marginTop: "20px" }} className={classes.heroSubHeading}>

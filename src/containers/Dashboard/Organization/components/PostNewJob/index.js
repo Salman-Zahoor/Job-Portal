@@ -100,8 +100,8 @@ const PostNewJob = ({ jobData }) => {
   const jobDescriptionData = [
     {
       id: 1,
-      label: "It & Computer",
-      value: "It & Computer",
+      label: "IT & Computer",
+      value: "IT & Computer",
     },
     {
       id: 2,
@@ -118,7 +118,78 @@ const PostNewJob = ({ jobData }) => {
       label: "Doctor",
       value: "Doctor",
     },
-  ];
+    {
+      id: 5,
+      label: "Finance",
+      value: "Finance",
+    },
+    {
+      id: 6,
+      label: "Education",
+      value: "Education",
+    },
+    {
+      id: 7,
+      label: "Construction",
+      value: "Construction",
+    },
+    {
+      id: 8,
+      label: "Legal",
+      value: "Legal",
+    },
+    {
+      id: 9,
+      label: "Human Resources",
+      value: "Human Resources",
+    },
+    {
+      id: 10,
+      label: "Sales",
+      value: "Sales",
+    },
+    {
+      id: 11,
+      label: "Customer Service",
+      value: "Customer Service",
+    },
+    {
+      id: 12,
+      label: "Healthcare",
+      value: "Healthcare",
+    },
+    {
+      id: 13,
+      label: "Hospitality",
+      value: "Hospitality",
+    },
+    {
+      id: 14,
+      label: "Engineering",
+      value: "Engineering",
+    },
+    {
+      id: 15,
+      label: "Arts & Design",
+      value: "Arts & Design",
+    },
+    {
+      id: 16,
+      label: "Media & Communication",
+      value: "Media & Communication",
+    },
+    {
+      id: 17,
+      label: "Transportation",
+      value: "Transportation",
+    },
+    {
+      id: 18,
+      label: "Real Estate",
+      value: "Real Estate",
+    }
+];
+
 
   const jobTypeData = [
     {
