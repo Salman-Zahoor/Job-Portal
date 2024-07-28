@@ -10,7 +10,7 @@ const PricingPlan = ({ user, handleSelectPlan }) => {
         {
             id: 1,
             title: "Basic",
-            price: "1000",
+            price: "349",
             jobs: "100",
             featuredJobs: "10",
             renew: "10",
@@ -20,7 +20,7 @@ const PricingPlan = ({ user, handleSelectPlan }) => {
         {
             id: 2,
             title: "Standard",
-            price: "2000",
+            price: "699",
             jobs: "200",
             featuredJobs: "20",
             renew: "20",
@@ -30,7 +30,7 @@ const PricingPlan = ({ user, handleSelectPlan }) => {
         {
             id: 3,
             title: "Premium",
-            price: "3000",
+            price: "999",
             jobs: "300",
             featuredJobs: "30",
             renew: "30",
