@@ -127,7 +127,7 @@ const PlanPayment = () => {
                             fontSize: "18px !important",
                             marginTop: "10px"
                         }} className={classes.loginFormHeading}>
-                            Account title: <span style={{ color: priceColor }}>BHS</span>
+                            Account title: <span style={{ color: priceColor }}>Jhon</span>
                         </Typography>
                         <Typography
                             sx={{
@@ -136,7 +136,7 @@ const PlanPayment = () => {
 
                             }}
                             variant="h3" className={classes.loginFormHeading}>
-                            Account number: <span style={{ color: priceColor }}>3325556178546</span>
+                            Account number: <span style={{ color: priceColor }}>10000031510604</span>
                         </Typography>
                         <Typography
                             sx={{
@@ -144,7 +144,7 @@ const PlanPayment = () => {
                                 marginTop: "5px"
                             }}
                             variant="h3" className={classes.loginFormHeading}>
-                            Bank name: <span style={{ color: priceColor }}>Bank AlHabib</span>
+                            Bank name: <span style={{ color: priceColor }}>Bank of England</span>
                         </Typography>
                     </Box>
                     <Box component="div" mt={2}>
