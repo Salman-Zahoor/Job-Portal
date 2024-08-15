@@ -23,6 +23,9 @@ export const applyJob = (params) => {
     return Api(`${endPoints.applyJob}`, params, requestType.POST)
 }
 
+export const applyJobsFlask = (params) => {
+    return Api(`${endPoints.applyJobsFlask}`, params, requestType.POST)
+}
 export const getAppliedJobsById = (params) => {
     return Api(`${endPoints.getAppliedJobs}`, params, requestType.POST)
 }

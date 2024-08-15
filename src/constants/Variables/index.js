@@ -41,6 +41,8 @@ export const endPoints = {
     getAppliedJobs: "getAppliedJobs",
     updateJob: "updateJob",
     getJobByType: "getJobByType",
+    applyJobsFlask:"applyJobsFlask",
+
 
 
     getAllUsers: "getAllUsers",
